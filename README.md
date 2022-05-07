@@ -1,7 +1,7 @@
 # c14n
 
- [![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/mod/github.com/ucarion/c14n?tab=overview)
- [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ucarion/c14n/tests?label=tests&logo=github&style=flat-square)](https://github.com/ucarion/c14n/actions)
+ [![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/mod/github.com/chenghonour/XMLC14n?tab=overview)
+ [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ucarion/c14n/tests?label=tests&logo=github&style=flat-square)](https://github.com/chenghonour/XMLC14n/actions)
 
 This package is a Golang implementation of XML Canonicalization ("c14n"). In
 particular, it implements the [Exclusive Canonical XML][w3] specification, which
@@ -20,7 +20,7 @@ Digital Signature, consider using [`github.com/ucarion/saml`][saml] or
 Install this package by running:
 
 ```bash
-go get github.com/ucarion/c14n
+go get github.com/chenghonour/XMLC14n
 ```
 
 ## Usage

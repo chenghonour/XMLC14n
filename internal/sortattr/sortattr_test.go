@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"testing"
 
+	"github.com/chenghonour/XMLC14n/internal/sortattr"
+	"github.com/chenghonour/XMLC14n/internal/stack"
 	"github.com/stretchr/testify/assert"
-	"github.com/ucarion/c14n/internal/sortattr"
-	"github.com/ucarion/c14n/internal/stack"
 )
 
 func TestSortAttr(t *testing.T) {

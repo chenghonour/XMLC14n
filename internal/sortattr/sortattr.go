@@ -3,7 +3,7 @@ package sortattr
 import (
 	"encoding/xml"
 
-	"github.com/ucarion/c14n/internal/stack"
+	"github.com/chenghonour/XMLC14n/internal/stack"
 )
 
 // SortAttr can sort attributes in compliance with the c14n specification.

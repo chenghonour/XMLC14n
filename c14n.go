@@ -11,8 +11,8 @@ import (
 	"io"
 	"sort"
 
-	"github.com/ucarion/c14n/internal/sortattr"
-	"github.com/ucarion/c14n/internal/stack"
+	"github.com/chenghonour/XMLC14n/internal/sortattr"
+	"github.com/chenghonour/XMLC14n/internal/stack"
 )
 
 // RawTokenReader is similar to xml.TokenReader, but is expected to return

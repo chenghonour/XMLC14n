@@ -10,8 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/stretchr/testify/assert"
-	"github.com/ucarion/c14n"
+	"github.com/chenghonour/XMLC14n"
 	"golang.org/x/net/html/charset"
 )
 
